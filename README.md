@@ -1,5 +1,5 @@
-# Redefined KRFont
-Better AutodeskScaleform fontset for Grand Theft Auto V
+# Re-KReation
+ReCreated AutodeskScaleform fontset for Grand Theft Auto V
 
 ## 소개
 GTA5는 언어 설정 시 해당 언어에서 사용하는 폰트 라이브러리 단 하나를 로드합니다.
