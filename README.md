@@ -44,7 +44,7 @@ lixvtz의 **ReKReation**는 이러한 문제를 해결하기 위해 **GTAV 레�
 ![title](https://github.com/lixvtz/GTA5-ReKReation/blob/main/README/images/WASTED.png?raw=true)
 3. **GTA 온라인**에서 한국어 채팅의 가독성이 향상되며, 영어로 설정된 상태에서도 한국어 채팅이 가능합니다.
 - 자음, 모음만으로 채팅을 할 수 있습니다.
-- 일본어, 중국어 등 채팅을 보고 쓸 수 있습니다. 
+- 일본어, 중국어 등 비 라틴 언어가 포함된 채팅을 보고 쓸 수 있습니다. 
 4. 게임 내 UI와 자막 디자인이 라틴 유저들과 거의 동등한 수준으로 개선됩니다.  
 
 ---
