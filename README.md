@@ -3,8 +3,8 @@ ReCreated AutodeskScaleform fontset for Grand Theft Auto V Legacy
 ![title](https://github.com/lixvtz/GTA5-ReKReation/blob/main/README/images/CHARACTER_SELECTION.png?raw=true)
 
 ## 소개  
-GTA5는 언어 설정 시 폰트 매핑 파일과 해당 언어용 폰트 라이브러리 단 하나를 로드합니다.  
-예컨대 Grand Theft Auto V의 언어를 한국어로 설정할 경우, 게임은 중문간체, 중문번체, 일본어, 영어, 한국어 폰트 라이브러리 중 한국어 폰트 라이브러리만 로드합니다.  
+GTAV 레거시는 언어 설정 시 폰트 매핑 파일과 해당 언어용 폰트 라이브러리 단 하나를 로드합니다.  
+예컨대 Grand Theft Auto V Legacy의 언어를 한국어로 설정할 경우, 게임은 중문간체, 중문번체, 일본어, 서구권전역, 한국어 폰트 라이브러리 중 한국어 폰트 라이브러리만 로드합니다.  
 
 라이브러리 파일에는 게임에서 필요로 하는 문자를 표시하기 위해 여러 폰트셋이 들어있는데, 한국어의 경우 실제 자막을 표시하기 위한 폰트로 모든 상황에서 **HYRKorean**을 사용합니다.  
 **HYRKorean**은 굴림체와 같이 투박하고 세련되지 않았습니다.
@@ -42,7 +42,7 @@ lixvtz의 **ReKReation**는 이러한 문제를 해결하기 위해 **GTAV 레�
 ![title](https://github.com/lixvtz/GTA5-ReKReation/blob/main/README/images/ARMORY.png?raw=true)
 ![title](https://github.com/lixvtz/GTA5-ReKReation/blob/main/README/images/MISSIONCONTROLLER.png?raw=true)
 ![title](https://github.com/lixvtz/GTA5-ReKReation/blob/main/README/images/WASTED.png?raw=true)
-3. **GTA 온라인**에서 한국어 채팅의 가독성이 향상되며, 영어로 설정된 상태에서도 한국어 채팅이 가능합니다.
+3. **GTA 온라인 레거시**에서 한국어 채팅의 가독성이 향상되며, 영어로 설정된 상태에서도 한국어 채팅이 가능합니다.
 - 자음, 모음만으로 채팅을 할 수 있습니다.
 - 일본어, 중국어 등 비 라틴 언어가 포함된 채팅을 보고 쓸 수 있습니다. 
 4. 게임 내 UI와 자막 디자인이 라틴 유저들과 거의 동등한 수준으로 개선됩니다.  
