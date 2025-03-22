@@ -1,17 +1,17 @@
 # ReKReation
-ReCreated AutodeskScaleform fontset for Grand Theft Auto V Legacy
+ReCreated AutodeskScaleform fontset for Grand Theft Auto V Legacy/Enhanced
 ![title](https://github.com/lixvtz/GTA5-ReKReation/blob/main/README/images/CHARACTER_SELECTION.png?raw=true)
 
 ## 소개  
 GTAV 레거시는 언어 설정 시 폰트 매핑 파일과 해당 언어용 폰트 라이브러리 단 하나를 로드합니다.  
-예컨대 Grand Theft Auto V Legacy의 언어를 한국어로 설정할 경우, 게임은 중문간체, 중문번체, 일본어, 서구권전역, 한국어 폰트 라이브러리 중 한국어 폰트 라이브러리만 로드합니다.  
+예컨대 Grand Theft Auto V Legacy/Enhanced의 언어를 한국어로 설정할 경우, 게임은 중문간체, 중문번체, 일본어, 서구권전역, 한국어 폰트 라이브러리 중 한국어 폰트 라이브러리만 로드합니다.  
 
 라이브러리 파일에는 게임에서 필요로 하는 문자를 표시하기 위해 여러 폰트셋이 들어있는데, 한국어의 경우 실제 자막을 표시하기 위한 폰트로 모든 상황에서 **HYRKorean**을 사용합니다.  
 **HYRKorean**은 굴림체와 같이 투박하고 세련되지 않았습니다.
 
 이러한 폰트는 특히 **GTA 온라인 레거시** 환경의 특성을 충분히 반영하지 못합니다. 해당 폰트는 한국어 이외의 문자를 제대로 지원하지 않아 글로벌 채팅이 불가능하고, 표준 한국어 대비 적은 글리프 지원, 자모 글리프조차 없기 때문에 인해 오타발생 시 글자 자체가 만들어지지 않습니다. 이로 인해 실시간 소통이 중요한 환경에서 플레이어가 불편함을 겪습니다.
 
-lixvtz의 **ReKReation**는 이러한 문제를 해결하기 위해 **GTAV 레거시**와 **GTA 온라인 레거시** 모든 경우를 생각하고 제작되었습니다. 기본 라이브러리에 있는 폰트를 모두 차세대 폰트로 변경하고, 각각의 위치에 알맞은 폰트를 적용하여 게임 플레이 경험을 향상시킵니다.
+lixvtz의 **ReKReation**는 이러한 문제를 해결하기 위해 **GTAV 레거시/인핸스드드**와 **GTA 온라인 레거시** 모든 경우를 생각하고 제작되었습니다. 기본 라이브러리에 있는 폰트를 모두 차세대 폰트로 변경하고, 각각의 위치에 알맞은 폰트를 적용하여 게임 플레이 경험을 향상시킵니다.
 
 ---
 
@@ -49,4 +49,4 @@ lixvtz의 **ReKReation**는 이러한 문제를 해결하기 위해 **GTAV 레�
 
 ---
 
-이 프로젝트는 **Grand Theft Auto V Legacy**, **Grand Theft Auto Online Legacy**의 한글 폰트를 개선하여 플레이어들의 경험을 향상시키기 위해 시작되었습니다. 함께해주셔서 감사합니다!  
+이 프로젝트는 **Grand Theft Auto V Legacy/Enhanced**, **Grand Theft Auto Online Legacy/Enhanced**의 한글 폰트를 개선하여 플레이어들의 경험을 향상시키기 위해 시작되었습니다. 함께해주셔서 감사합니다!  

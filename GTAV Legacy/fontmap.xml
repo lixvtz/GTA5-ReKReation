@@ -1,0 +1,186 @@
+<!------------------------------->
+<!-------- font mappings -------->
+<!------------------------------->
+
+<! --- NOTE: the '$' names here CANNOT be changed ---- />
+
+<! --- font lib used will be font_lib_korean, font_lib_korean etc etc ---- />
+
+<font_lib>
+		<efigs name="$Font2"						mapping="Chalet-LondonNineteenSixty"			bold="0"  />
+		<efigs name="$Font5"						mapping="SignPainter-HouseScript"				bold="0"  />
+		<efigs name="$RockstarTAG"					mapping="RockstarTAG"							bold="0"  />
+		<efigs name="$GTAVLeaderboard"				mapping="GTAV LeaderBoard" 						bold="0"  />
+		<efigs name="$Font2_cond"					mapping="ChaletComprime-CologneSixty" 			bold="0"  />
+		<efigs name="$FixedWidthNumbers"			mapping="ChaletLondonNineteenSixtyNumb" 		bold="0"  />
+		<efigs name="$gtaCash"						mapping="PricedownGTAVInt" 						bold="0"  />
+		<efigs name="$HandstyleHeist"				mapping="Handstyle Heist"						bold="0"  />
+		<efigs name="$SOCIAL_CLUB_COND_REG"			mapping="HelveticaNeue LT 47 LightCn"			bold="0"  />
+		<efigs name="$SOCIAL_CLUB_COND_BOLD" 		mapping="HelveticaNeue LT 67 MdCn"				bold="0"  />
+		<efigs name="$WebFont1_Hbold"				mapping="HelveticaNeueLT W1G 55 Roman"			bold="0"  />
+		<efigs name="$WebFont2_Hitalic"				mapping="HelveticaNeueLT W1G 55 Roman"			bold="0"  />
+		<efigs name="$WebFont3_Times"				mapping="Times New Roman CE"					bold="0"  />
+		<efigs name="$WebFont4_Courier"				mapping="Courier Twelve MT Std"					bold="0"  />
+		<efigs name="$Taxi_font"					mapping="GTAVTaxiDigital"						bold="0"  />
+		<efigs name="$Courier"						mapping="GTAV Courier"							bold="0"  />
+		<efigs name="$Font2_cond_NOT_GAMERNAME"		mapping="ChaletComprime-CologneSixty"			bold="0"  />
+		<efigs name="$Font2_cond_MPTimer"			mapping="GTAV Timer Fixed Cond"					bold="0"  />
+		<efigs name="$WebFont5_BellGothic"			mapping="Bell Gothic Black"						bold="0"  />		
+		<efigs name="$AnnaSC"						mapping="Anna SC ITC TT"						bold="0"  />
+		<efigs name="$Bauhaus"						mapping="BauhausITCTT"							bold="1"  />
+		<efigs name="$Bookman"						mapping="BookmanMdITCTT"						bold="1"  />
+		<efigs name="$EngraversOldEnglish"			mapping="Engravers Old English MT Std"			bold="0"  />
+		<efigs name="$HelveticaBLK"					mapping="HelveticaNeueLT Com 95 Blk"			bold="0"  />
+		<efigs name="$HelveticaBLKI"				mapping="HelveticaNeueLT Com 96 BlkIt"			bold="0"  />
+		<efigs name="$Machine"						mapping="ITC Machine Std"						bold="1"  />
+		<efigs name="$Lubalin"						mapping="LubalinGraphMdITCTT"					bold="1"  />
+		<efigs name="$Mistral"						mapping="Mistral Std"							bold="0"  />
+		<efigs name="$Stenberg"						mapping="StenbergITC TT"						bold="0"  />
+		<efigs name="$Stencil"						mapping="Stencil Std"							bold="0"  />
+		<efigs name="$Times"						mapping="Times New Roman"						bold="1"  />
+		<efigs name="$TradeGothic"					mapping="Trade Gothic LT Com Bold"				bold="0"  />
+		<efigs name="$Redemption"					mapping="Redemption"							bold="0"  />
+		<efigs name="$Subtract"						mapping="GTA Subtract"							bold="1"  />
+		
+		<korean name="$Font2"						mapping="Chalet-LondonNineteenSixty"			bold="0"  />
+		<korean name="$Font5"						mapping="SignPainter-HouseScript"				bold="0"  />
+		<korean name="$RockstarTAG"					mapping="RockstarTAG"							bold="0"  />
+		<korean name="$GTAVLeaderboard"				mapping="GTAV LeaderBoard" 						bold="0"  />
+		<korean name="$Font2_cond"					mapping="ChaletComprime-CologneSixty" 			bold="0"  />
+		<korean name="$FixedWidthNumbers"			mapping="ChaletLondonNineteenSixtyNumb" 		bold="0"  />
+		<korean name="$gtaCash"						mapping="PricedownGTAVInt" 						bold="0"  />
+		<korean name="$HandstyleHeist"				mapping="Chalet-LondonNineteenSixty"						bold="0"  />
+		<korean name="$SOCIAL_CLUB_COND_REG"			mapping="Chalet-LondonNineteenSixty"			bold="0"  />
+		<korean name="$SOCIAL_CLUB_COND_BOLD" 		mapping="Chalet-LondonNineteenSixty"				bold="0"  />
+		<korean name="$WebFont1_Hbold"				mapping="Chalet-LondonNineteenSixty"			bold="0"  />
+		<korean name="$WebFont2_Hitalic"				mapping="Chalet-LondonNineteenSixty"			bold="0"  />
+		<korean name="$WebFont3_Times"				mapping="Chalet-LondonNineteenSixty"					bold="0"  />
+		<korean name="$WebFont4_Courier"				mapping="Chalet-LondonNineteenSixty"					bold="0"  />
+		<korean name="$Taxi_font"					mapping="Chalet-LondonNineteenSixty"						bold="0"  />
+		<korean name="$Courier"						mapping="Chalet-LondonNineteenSixty"							bold="0"  />
+		<korean name="$Font2_cond_NOT_GAMERNAME"		mapping="ChaletComprime-CologneSixty"			bold="0"  />
+		<korean name="$Font2_cond_MPTimer"			mapping="GTAV Timer Fixed Cond"					bold="0"  />
+		<korean name="$WebFont5_BellGothic"			mapping="Chalet-LondonNineteenSixty"						bold="0"  />		
+		<korean name="$AnnaSC"						mapping="Chalet-LondonNineteenSixty"						bold="0"  />
+		<korean name="$Bauhaus"						mapping="Chalet-LondonNineteenSixty"							bold="0"  />
+		<korean name="$Bookman"						mapping="Chalet-LondonNineteenSixty"						bold="0"  />
+		<korean name="$EngraversOldEnglish"			mapping="Chalet-LondonNineteenSixty"			bold="0"  />
+		<korean name="$HelveticaBLK"					mapping="Chalet-LondonNineteenSixty"			bold="0"  />
+		<korean name="$HelveticaBLKI"				mapping="Chalet-LondonNineteenSixty"			bold="0"  />
+		<korean name="$Machine"						mapping="Chalet-LondonNineteenSixty"						bold="0"  />
+		<korean name="$Lubalin"						mapping="Chalet-LondonNineteenSixty"					bold="0"  />
+		<korean name="$Mistral"						mapping="Chalet-LondonNineteenSixty"							bold="0"  />
+		<korean name="$Stenberg"						mapping="Chalet-LondonNineteenSixty"						bold="0"  />
+		<korean name="$Stencil"						mapping="Chalet-LondonNineteenSixty"							bold="0"  />
+		<korean name="$Times"						mapping="Chalet-LondonNineteenSixty"						bold="0"  />
+		<korean name="$TradeGothic"					mapping="Chalet-LondonNineteenSixty"				bold="0"  />
+		<korean name="$Redemption"					mapping="Chalet-LondonNineteenSixty"							bold="0"  />
+		<korean name="$Subtract"						mapping="Chalet-LondonNineteenSixty"							bold="0"  />
+
+		<japanese name="$Font2"						mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Font5"						mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$RockstarTAG"				mapping="RockstarTAG"							bold="0"  />
+		<japanese name="$GTAVLeaderboard"			mapping="GTAV LeaderBoard" 						bold="0"  />
+		<japanese name="$Font2_cond"				mapping="ChaletComprime-CologneSixty" 			bold="0"  />
+		<japanese name="$FixedWidthNumbers"			mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$gtaCash"					mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$HandstyleHeist"			mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$SOCIAL_CLUB_COND_REG"		mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$SOCIAL_CLUB_COND_BOLD"		mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$WebFont1_Hbold"			mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$WebFont2_Hitalic"			mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$WebFont3_Times"			mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$WebFont4_Courier"			mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Taxi_font"					mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Courier"					mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Font2_cond_NOT_GAMERNAME"	mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Font2_cond_MPTimer"		mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$WebFont5_BellGothic"		mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$AnnaSC"					mapping="MotoyaExGothic" 						bold="0"  />
+		<japanese name="$Bauhaus"					mapping="MotoyaExGothic" 						bold="0"  />
+		<japanese name="$Bookman"					mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$EngraversOldEnglish"		mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$HelveticaBLK"				mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$HelveticaBLKI"				mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Machine"					mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Lubalin"					mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Mistral"					mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Stenberg"					mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Stencil"					mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Times"						mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$TradeGothic"				mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Redemption"				mapping="MotoyaExGothic"						bold="0"  />
+		<japanese name="$Subtract"					mapping="MotoyaExGothic"						bold="0"  />
+
+		<chinese name="$Font2"						mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Font5"						mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$RockstarTAG"				mapping="RockstarTAG"							bold="0"  />
+		<chinese name="$GTAVLeaderboard"			mapping="GTAV LeaderBoard" 						bold="0"  />
+		<chinese name="$Font2_cond"					mapping="ChaletComprime-CologneSixty" 			bold="0"  />
+		<chinese name="$FixedWidthNumbers"			mapping="MHeiHK-Bold" 							bold="0"  />
+		<chinese name="$gtaCash"					mapping="MHeiHK-Bold" 							bold="0"  />
+		<chinese name="$HandstyleHeist"				mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$SOCIAL_CLUB_COND_REG"		mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$SOCIAL_CLUB_COND_BOLD" 		mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$WebFont1_Hbold"				mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$WebFont2_Hitalic"			mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$WebFont3_Times"				mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$WebFont4_Courier"			mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Taxi_font"					mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Courier"					mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Font2_cond_NOT_GAMERNAME"	mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Font2_cond_MPTimer"			mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$WebFont5_BellGothic"		mapping="MHeiHK-Bold"							bold="0"  />		
+		<chinese name="$AnnaSC"						mapping="MHeiHK-Bold" 							bold="0"  />
+		<chinese name="$Bauhaus"					mapping="MHeiHK-Bold" 							bold="0"  />
+		<chinese name="$Bookman"					mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$EngraversOldEnglish"		mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$HelveticaBLK"				mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$HelveticaBLKI"				mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Machine"					mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Lubalin"					mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Mistral"					mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Stenberg"					mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Stencil"					mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Times"						mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$TradeGothic"				mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Redemption"					mapping="MHeiHK-Bold"							bold="0"  />
+		<chinese name="$Subtract"					mapping="MHeiHK-Bold"							bold="0"  />
+
+		<chinesesimp name="$Font2"						mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Font5"						mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$RockstarTAG"				mapping="RockstarTAG"							bold="0"  />
+		<chinesesimp name="$GTAVLeaderboard"			mapping="GTAV LeaderBoard" 						bold="0"  />
+		<chinesesimp name="$Font2_cond"					mapping="ChaletComprime-CologneSixty" 			bold="0"  />
+		<chinesesimp name="$FixedWidthNumbers"			mapping="Simp Chinese" 							bold="0"  />
+		<chinesesimp name="$gtaCash"					mapping="Simp Chinese" 							bold="0"  />
+		<chinesesimp name="$HandstyleHeist"				mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$SOCIAL_CLUB_COND_REG"		mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$SOCIAL_CLUB_COND_BOLD" 		mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$WebFont1_Hbold"				mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$WebFont2_Hitalic"			mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$WebFont3_Times"				mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$WebFont4_Courier"			mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Taxi_font"					mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Courier"					mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Font2_cond_NOT_GAMERNAME"	mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Font2_cond_MPTimer"			mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$WebFont5_BellGothic"		mapping="Simp Chinese"							bold="0"  />		
+		<chinesesimp name="$AnnaSC"						mapping="Simp Chinese" 							bold="0"  />
+		<chinesesimp name="$Bauhaus"					mapping="Simp Chinese" 							bold="0"  />
+		<chinesesimp name="$Bookman"					mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$EngraversOldEnglish"		mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$HelveticaBLK"				mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$HelveticaBLKI"				mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Machine"					mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Lubalin"					mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Mistral"					mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Stenberg"					mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Stencil"					mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Times"						mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$TradeGothic"				mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Redemption"					mapping="Simp Chinese"							bold="0"  />
+		<chinesesimp name="$Subtract"					mapping="Simp Chinese"							bold="0"  />
+</font_lib>
+
+
